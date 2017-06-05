@@ -1,5 +1,7 @@
 # README
 
+Hi, my name is Veronika and I want to build an e-commerce site for my project Gartenpaten. 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
